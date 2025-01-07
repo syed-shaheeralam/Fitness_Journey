@@ -37,4 +37,4 @@ if user_input:
 
 # Footer
 st.markdown("---")
-st.markdown("Created with ❤️ using Groq API and Streamlit")
+st.markdown("Created By Syed Shaheer Alam")
