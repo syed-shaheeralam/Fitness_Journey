@@ -37,4 +37,4 @@ if user_input:
 
 # Footer
 st.markdown("---")
-st.markdown("Created By Syed Shaheer Alam")
+st.markdown("Created By Syed Shaheer Alam (GodFather of Artificial Intelligence)")
